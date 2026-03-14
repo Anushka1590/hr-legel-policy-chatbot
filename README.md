@@ -1,4 +1,4 @@
-# HR & Legal Policy Assistant 🤖
+# HR & Legal Policy Assistant 
 
 A smart chatbot that helps employees instantly find answers from company HR 
 and legal policy documents - without manually searching through lengthy PDFs.
@@ -75,8 +75,6 @@ python -m venv venv
 # Windows
 venv\Scripts\activate
 
-# Mac/Linux
-source venv/bin/activate
 ```
 
 **3. Install dependencies**
@@ -111,8 +109,6 @@ streamlit run app.py
 
 ## Example Questions to Try
 
-Once you upload an HR policy document, try asking:
-
 - *"How many earned leaves am I entitled to per year?"*
 - *"What counts as misconduct?"*
 - *"What is the resignation notice period?"*
@@ -130,7 +126,7 @@ Live demo: **[\[hr-legel-policy-chatbot\]](https://hr-legel-policy-chatbot-pfg4a
 
 ---
 
-## Known Limitations
+## Limitations
 
 - The bot works best with text-based PDFs. Scanned image PDFs may not extract 
   text correctly
