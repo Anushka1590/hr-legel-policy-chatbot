@@ -126,7 +126,7 @@ With web search enabled:
 
 ## Deployment
 
-Live demo: **[\[Add your Streamlit Cloud link here\]](https://hr-legel-policy-chatbot-pfg4amwbgzzy5rwb2ivpb3.streamlit.app/)**
+Live demo: **[\[hr-legel-policy-chatbot\]](https://hr-legel-policy-chatbot-pfg4amwbgzzy5rwb2ivpb3.streamlit.app/)**
 
 ---
 
