@@ -1,4 +1,4 @@
-# HR & Legal Policy Assistant 🤖⚖️
+# HR & Legal Policy Assistant 🤖
 
 A smart chatbot that helps employees instantly find answers from company HR 
 and legal policy documents - without manually searching through lengthy PDFs.
