@@ -314,7 +314,7 @@ def chat_page():
         })
 
 
-### Main
+### Main function
 
 def main():
     st.set_page_config(
